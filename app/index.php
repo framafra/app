@@ -18,8 +18,8 @@ $result = mysqli_query($mysqli, "SELECT * FROM users ORDER BY id DESC");
 <div class = "container">
 	<div class="jumbotron">
 			<h1 class="display-4">Directorio Usuarios</h1>
-			<p class="lead">Unidad 2</p>
-			<p class="lead">Práctica 2</p>
+			<p class="lead">IAW</p>
+			<p class="lead">ASIX</p>
     </div>	
 	<a href="add.html" class="btn btn-primary">Add New Data</a><br/><br/>
 	<table width='80%' border=0 class="table">
